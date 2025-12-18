@@ -593,17 +593,16 @@ npm run dev -- --port 3000
 
 ## 🚀 Mejoras Futuras
 
+- [ ] **Memoria conversacional:** Contexto de chat history en las preguntas de seguimiento
+- [ ] **Ingesta incremental:** Hash de archivos para evitar re-embedding; usar LlamaParse para tablas
+- [ ] **Búsqueda híbrida:** Combinar BM25 (keywords exactos) + embeddings (semántica)
+- [ ] **Configuración dinámica:** Mover `MODEL_ALIASES` a JSON o base de datos sin redeploy
 - [ ] Fine-tuning de embeddings para dominio específico
-- [ ] Búsqueda híbrida (semántica + BM25)
-- [ ] Feedback loop (👍/👎 para mejorar prompts)
-- [ ] Multi-idioma (inglés, portugués)
-- [ ] Integración con APIs externas (stock, precios)
+- [ ] Feedback loop (👍/👎 para mejorar iterativamente)
+- [ ] Integración con APIs externas
 - [ ] Dashboard de analytics
-- [ ] Cache de respuestas frecuentes
-- [ ] Multi-tenancy para múltiples empresas
 - [ ] Autenticación y autorización
-- [ ] Rate limiting y throttling
-- [ ] Implementar respuestas con imagenes descriptivas
+- [ ] Implementar respuestas con imágenes descriptivas
 
 ---
 

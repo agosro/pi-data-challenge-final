@@ -591,13 +591,6 @@ npm run dev -- --port 3000
 
 ---
 
-## 📖 Documentación Adicional
-
-- [📘 Documentación Backend Completa](./backend/README.md)
-- [📗 Documentación Frontend](./frontend/README.md)
-
----
-
 ## 🚀 Mejoras Futuras
 
 - [ ] Fine-tuning de embeddings para dominio específico

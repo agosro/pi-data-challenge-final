@@ -654,3 +654,6 @@ Get Talent - Pi Data
 Challenge Final - Diciembre 2025
 
 ---
+
+### Link canva ###
+https://www.canva.com/design/DAG7l2Juazg/E7L5em5t_2m5oCuKt5o9wQ/edit?utm_content=DAG7l2Juazg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
